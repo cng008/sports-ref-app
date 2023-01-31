@@ -1,0 +1,29 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.header-row {
+  color: darkred;
+}
+
+th {
+  text-align: left;
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.header-col {
+  font-weight: lighter;
+  border: none;
+  background-color: white !important;
+}
+
+td {
+  text-align: right;
+  border: 1px solid lightgray;
+}
